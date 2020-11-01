@@ -1,0 +1,14 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore files related to API keys
+.env
+
+# Ignore all text files
+*.txt
+
+# Ignore all Word
+*.docx
+
+# Ignore all Excel
+*.xlsx
