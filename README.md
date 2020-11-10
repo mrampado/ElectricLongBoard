@@ -49,3 +49,5 @@ I plan to have these two items work together, as well as with most open source p
 
 ### Other Notes
 Feel free to reach out to me on my instagram! @MatthewRampado
+
+All work is licensed under the CC0 1.0 Universal License. 
