@@ -38,3 +38,22 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\matth\git\Ele
 
 !ENTRY org.eclipse.cdt.core 1 0 2020-11-09 20:44:27.287
 !MESSAGE Indexed 'Rampado eSkate Motor Controller' (21 sources, 98 headers) in 3.24 sec: 6,975 declarations; 23,746 references; 2 unresolved inclusions; 29 syntax errors; 145 unresolved names (0.47%)
+!SESSION 2020-11-10 18:30:45.772 -----------------------------------------------
+eclipse.buildId=Version 1.3.0
+java.version=1.8.0_242
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  C:\Users\matth\git\ElectricLongBoard\Electrical Design\Motor Controller\Rampado eSkate Motor Controller\STM32F405RGT_CubeIDE_Workspace\Rampado eSkate Motor Controller\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\matth\git\ElectricLongBoard\Electrical Design\Motor Controller\Rampado eSkate Motor Controller\STM32F405RGT_CubeIDE_Workspace\Rampado eSkate Motor Controller\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2020-11-10 18:30:51.939
+!MESSAGE Log4j initialized with config file C:\Users\matth\git\ElectricLongBoard\Electrical Design\Motor Controller\Rampado eSkate Motor Controller\STM32F405RGT_CubeIDE_Workspace\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2020-11-10 18:30:55.217
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2020-11-10 18:30:55.885
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-11-10 18:30:58.524
+!MESSAGE Indexed 'Rampado eSkate Motor Controller' (21 sources, 98 headers) in 3.1 sec: 6,975 declarations; 23,746 references; 2 unresolved inclusions; 29 syntax errors; 145 unresolved names (0.47%)
